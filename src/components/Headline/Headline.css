@@ -1,0 +1,10 @@
+#headline.css
+
+.headline {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+    color: black;
+  }
